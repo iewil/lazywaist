@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  font-family: 'Baloo 2', cursive;
+}
+
+
+.container {
+  padding: 50px;
+}
+
+.light-row {
+  height: 30px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  color: white
+}
+
+.star {
+  margin-left: 3px;
+  margin-right: 3px;
+}
